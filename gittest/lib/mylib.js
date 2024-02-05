@@ -1,1 +1,1 @@
-console.log('Mylibrary.js')
+console.log('MY LIBRARY.js')
